@@ -1,0 +1,7 @@
+body {
+    background-image: url('tlo.jpg'); /* Zmień 'tlo.jpg' na nazwę swojego obrazu */
+    background-size: cover; /* Dopasowanie obrazu do ekranu */
+    background-position: center; /* Wyśrodkowanie obrazu */
+    background-repeat: no-repeat; /* Zapobieganie powtarzaniu */
+    background-attachment: fixed; /* Stałe tło podczas przewijania */
+}
